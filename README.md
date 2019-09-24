@@ -1,3 +1,5 @@
+## Projeto para fixar conceitos de reactjs
+
 ## Libs utilizadas
 
 - yarn add redux react-redux
